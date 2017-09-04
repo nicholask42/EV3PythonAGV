@@ -1,0 +1,3 @@
+[submodule "ev3dev-lang-python"]
+	path = ev3dev-lang-python
+	url = https://github.com/rhempel/ev3dev-lang-python.git
